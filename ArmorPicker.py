@@ -119,7 +119,6 @@ class ArmorPicker(Settings):
                                                            [gauntlet, list(value2)],
                                                            [chest, list(value3)],
                                                            [boot, list(value4)]])
-        return self.heap
 
     def output_results(self):
         for _ in range(self.max_results):
