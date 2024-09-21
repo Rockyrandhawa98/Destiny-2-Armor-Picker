@@ -1,5 +1,5 @@
 # Destiny 2 Armor Picker
-## This project takes your character data from the CSV file provided by Destiny Item Manager and outputs a few builds for your characters in Destiny 2.
+## This program takes your character data from the CSV file provided by Destiny Item Manager and outputs a few builds for your characters in Destiny 2.
 * You can change which two stats you'd like to prioritize, along with a minimum and maximum value for each of these stats to narrow down the builds to your liking.
 * This includes the ability to add additional bonuses to your stats through mod slots, fragments, and subclass aspects, and you can manually adjust these bonuses in ArmorSettings.py. 
 * You can also pick out a specific exotic armor piece to include in each build, making sure your builds are suited to your specific playstyle.
