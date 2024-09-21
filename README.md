@@ -15,16 +15,18 @@
 ## How to use this program
 
 1. Download your destiny-armor.csv file from Destiny Item Manager:
+   #### (You can use my destiny-armor.csv file instead if you just want to see how the program runs)
+   
    * Go to https://app.destinyitemmanager.com and sign in using your Bungie.net Account
    * Go to settings by clicking on the cog wheel at the top-right of the website
    * Scroll all the way down until you see the header titled "SPREADSHEETS"
    * Under the Inventory spreadsheets header, click on the "Armor" icon to download a .csv file containing your characters' armor data
   
-2. Create a Python project folder and place the .csv file within this folder, along with the ArmorPicker.py and ArmorSettings.py files
+3. Create a Python project folder and place the .csv file within this folder, along with the ArmorPicker.py and ArmorSettings.py files
    * Requires Python version 3.12 or greater, along with an IDE. There are a ton of tutorials on YouTube for this, but I recommend BroCode's tutorial below. The link is time-stamped and shows you how to do this up until around 3:30 in the video:
    * https://youtu.be/ix9cRaBkVe0?si=w8YIrBmnA6JI4PS1&t=57
   
-3. Adjust the settings in ArmorSettings.py however you want.
+4. Adjust the settings in ArmorSettings.py however you want.
    
    * Make sure the self.file_name variable is set to whatever the exact file name for your .csv file is, and make sure there are quotes around the name.
    * self.max_results is the max number of builds you want to output. Set it to a really high number if you want to see all possible combinations.
@@ -35,7 +37,7 @@
        
    * The rest of the self.extra_"stat" variables should be adjusted based on your expected mods, fragments, and aspects.
      
-4. Run the ArmorPicker.py file in your IDE to see builds for your characters
+5. Run the ArmorPicker.py file in your IDE to see builds for your characters
 
 <br>
    
