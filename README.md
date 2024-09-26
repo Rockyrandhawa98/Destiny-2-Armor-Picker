@@ -51,4 +51,4 @@
 
 ## Thanks for using my program!
 
-If you find any bugs or have any suggestions, you can submit an issue using the issues tab above, or send me a message on Discord at rocky#2836
+If you find any bugs or have any suggestions, you can submit an issue using the issues tab above, or send me a message on Discord at rocky2836
